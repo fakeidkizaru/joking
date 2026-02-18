@@ -4,6 +4,12 @@ body {
     font-family: 'Minecraftia', sans-serif;
     background: url("https://i.pinimg.com/1200x/d7/bd/0c/d7bd0ca771267527c3b36cd1dbe78d5b.jpg");
     background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    height: 100vh;
+    width:100vw;
+    overflow: hidden;
     
 }
 
